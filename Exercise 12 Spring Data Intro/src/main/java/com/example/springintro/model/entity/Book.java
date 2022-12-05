@@ -1,5 +1,9 @@
 package com.example.springintro.model.entity;
 
+import com.example.springintro.model.BaseEntity;
+import com.example.springintro.model.enums.AgeRestriction;
+import com.example.springintro.model.enums.EditionType;
+
 import javax.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDate;

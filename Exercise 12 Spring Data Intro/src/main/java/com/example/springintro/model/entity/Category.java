@@ -1,5 +1,7 @@
 package com.example.springintro.model.entity;
 
+import com.example.springintro.model.BaseEntity;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
