@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sales>
+    <sale>
+        <car make="Peugeot" model="407" travelled-distance="9223372775807"/>
+        <customer-name>Zada Attwood</customer-name>
+        <discount>0.2</discount>
+        <price>3793.7899999999999636202119290828704833984375</price>
+        <price-with-discount>3035.0320000000001527951098978519439697265625</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Fiat" model="500L" travelled-distance="922337204775807"/>
+        <customer-name>Sylvie Mcelravy</customer-name>
+        <discount>0.2</discount>
+        <price>8596.84000000000014551915228366851806640625</price>
+        <price-with-discount>6877.471999999999752617441117763519287109375</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Camry Hybrid" travelled-distance="2143647"/>
+        <customer-name>Hai Everton</customer-name>
+        <discount>0.15000000000000002</discount>
+        <price>2742.1300000000001091393642127513885498046875</price>
+        <price-with-discount>2330.81050000000004729372449219226837158203125</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Opel" model="Kadet" travelled-distance="21474847"/>
+        <customer-name>Carri Knapik</customer-name>
+        <discount>0.15000000000000002</discount>
+        <price>5475.7200000000002546585164964199066162109375</price>
+        <price-with-discount>4654.3620000000000800355337560176849365234375</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Renault" model="Alaskan" travelled-distance="2147483647"/>
+        <customer-name>Rico Peer</customer-name>
+        <discount>0.45</discount>
+        <price>2916.1099999999996725819073617458343505859375</price>
+        <price-with-discount>1603.8604999999997744453139603137969970703125</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Tacoma" travelled-distance="9225807"/>
+        <customer-name>Jimmy Grossi</customer-name>
+        <discount>0.2</discount>
+        <price>3748.6999999999998181010596454143524169921875</price>
+        <price-with-discount>2998.9600000000000363797880709171295166015625</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Renault" model="Alaskan" travelled-distance="21447"/>
+        <customer-name>Teddy Hobby</customer-name>
+        <discount>0.2</discount>
+        <price>1730.75</price>
+        <price-with-discount>1384.59999999999990905052982270717620849609375</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Ford" model="Taurus" travelled-distance="9223375807"/>
+        <customer-name>Hai Everton</customer-name>
+        <discount>0.45</discount>
+        <price>4355.8900000000003274180926382541656494140625</price>
+        <price-with-discount>2395.73950000000013460521586239337921142578125</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Mercedes" model="W210" travelled-distance="9223372036854775807"/>
+        <customer-name>Hipolito Lamoreaux</customer-name>
+        <discount>0.55</discount>
+        <price>3379.30999999999994543031789362430572509765625</price>
+        <price-with-discount>1520.689499999999725332600064575672149658203125</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Peugeot" model="405" travelled-distance="9226854775807"/>
+        <customer-name>Emmitt Benally</customer-name>
+        <discount>0.45</discount>
+        <price>8024.5299999999997453414835035800933837890625</price>
+        <price-with-discount>4413.49150000000008731149137020111083984375</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Peugeot" model="206" travelled-distance="214647"/>
+        <customer-name>Zada Attwood</customer-name>
+        <discount>0.25</discount>
+        <price>1502.180000000000063664629124104976654052734375</price>
+        <price-with-discount>1126.634999999999990905052982270717620849609375</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Ferrari" model="F40" travelled-distance="214647"/>
+        <customer-name>Audrea Cardinal</customer-name>
+        <discount>0.0</discount>
+        <price>3094.079999999999927240423858165740966796875</price>
+        <price-with-discount>3094.079999999999927240423858165740966796875</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Dacia" model="Dokker" travelled-distance="2147447"/>
+        <customer-name>Jimmy Grossi</customer-name>
+        <discount>0.25</discount>
+        <price>7709.489999999999781721271574497222900390625</price>
+        <price-with-discount>5782.1175000000002910383045673370361328125</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Ferrari" model="250 GTO" travelled-distance="214747"/>
+        <customer-name>Kristian Engberg</customer-name>
+        <discount>0.5</discount>
+        <price>2080.30999999999994543031789362430572509765625</price>
+        <price-with-discount>1040.154999999999972715158946812152862548828125</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Peugeot" model="308" travelled-distance="2147483647"/>
+        <customer-name>Marcelle Griego</customer-name>
+        <discount>0.25</discount>
+        <price>4309.15999999999985448084771633148193359375</price>
+        <price-with-discount>3231.8699999999998908606357872486114501953125</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Lamborghini" model="Gallardo" travelled-distance="92234775807"/>
+        <customer-name>Cinthia Lasala</customer-name>
+        <discount>0.15000000000000002</discount>
+        <price>5280.0199999999995270627550780773162841796875</price>
+        <price-with-discount>4488.0169999999998253770172595977783203125</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Peugeot" model="405" travelled-distance="92036854775807"/>
+        <customer-name>Francis Mckim</customer-name>
+        <discount>0.35</discount>
+        <price>1516.450000000000045474735088646411895751953125</price>
+        <price-with-discount>985.6925000000001091393642127513885498046875</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Renault" model="Alaskan" travelled-distance="2147483647"/>
+        <customer-name>Carole Witman</customer-name>
+        <discount>0.5</discount>
+        <price>1500.180000000000063664629124104976654052734375</price>
+        <price-with-discount>750.0900000000000318323145620524883270263671875</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Toyota" model="Corolla" travelled-distance="21477"/>
+        <customer-name>Sylvie Mcelravy</customer-name>
+        <discount>0.0</discount>
+        <price>5128.2699999999995270627550780773162841796875</price>
+        <price-with-discount>5128.2699999999995270627550780773162841796875</price-with-discount>
+    </sale>
+    <sale>
+        <car make="Nissan" model="GT-R" travelled-distance="2143647"/>
+        <customer-name>Marcelle Griego</customer-name>
+        <discount>0.55</discount>
+        <price>3522.75</price>
+        <price-with-discount>1585.237499999999954525264911353588104248046875</price-with-discount>
+    </sale>
+</sales>
