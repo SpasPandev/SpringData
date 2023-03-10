@@ -1,6 +1,7 @@
 package softuni.exam.instagraphlite.models;
 
 import javax.persistence.*;
+import java.util.Set;
 
 @Entity
 @Table(name = "users")
@@ -9,6 +10,7 @@ public class User extends BaseEntity{
     private String username;
     private String password;
     private Picture profilePicture;
+    private Set<Post> posts;
 
     public User() {
     }
@@ -38,5 +40,14 @@ public class User extends BaseEntity{
 
     public void setProfilePicture(Picture profilePicture) {
         this.profilePicture = profilePicture;
+    }
+
+    @OneToMany(mappedBy = "user")
+    public Set<Post> getPosts() {
+        return posts;
+    }
+
+    public void setPosts(Set<Post> posts) {
+        this.posts = posts;
     }
 }
